@@ -1,4 +1,4 @@
-# SpotifyAdBlock-Batch
+# Spotify Ad Blocking Script
 A simple script (made in batch) to affix ad server addresses to hosts and remove ads on Spotify
 If you'd like to use this file, follow these simple steps to get started.
   1. Download adscript.bat
