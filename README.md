@@ -1,6 +1,8 @@
 # Spotify Ad Blocking Script
 **Created by Boomaa (aka Boomaa23 on GitHub)**
 
+*Ad web server addresses provided by u/xXRasputintoXx on Reddit*
+
 A simple script *(made in batch)* to affix ad server addresses to hosts and remove ads on Spotify. If you'd like to use this file, follow these simple steps to get started.
   1. Download **adscript.bat**
   2. Launch adscript.bat with **administrator priveleges**
