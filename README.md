@@ -1,5 +1,6 @@
 # Spotify Ad Blocking Script
-A simple script (made in batch) to affix ad server addresses to hosts and remove ads on Spotify
+Created by Boomaa (aka Boomaa23 on GitHub)
+A simple script (made in batch) to affix ad server addresses to hosts and remove ads on Spotify.
 If you'd like to use this file, follow these simple steps to get started.
   1. Download adscript.bat
   2. Launch adscript.bat with administrator priveleges
@@ -8,4 +9,4 @@ If you'd like to use this file, follow these simple steps to get started.
   5. Wait until the file is done writing
   6. Enjoy ad-free spotify!
   
-DISCLAIMER(S): I AM NOT LIABLE FOR ANY DAMAGE CAUSED BY THE INDUCTION OF MY SCRIPT TO YOUR COMPUTING DEVICE. DO NOT RUN THIS MORE THAN ONCE, THAT CAN BECOME DANGEROUS. IF YOU DO NOT FOLLOW THE INSTRUCTIONS OR GUIDANCE, THEN I AM NOT RESPONSIBLE FOR ANY UNINTENDED CONSEQUENCES IN ANY WAY, SHAPE, OR FORM. THANK YOU FOR YOUR COOPERATION.
+<!-- DISCLAIMER(S): I AM NOT LIABLE FOR ANY DAMAGE CAUSED BY THE INDUCTION OF MY SCRIPT TO YOUR COMPUTING DEVICE. DO NOT RUN THIS MORE THAN ONCE, THAT CAN BECOME DANGEROUS. IF YOU DO NOT FOLLOW THE INSTRUCTIONS OR GUIDANCE, THEN I AM NOT RESPONSIBLE FOR ANY UNINTENDED CONSEQUENCES IN ANY WAY, SHAPE, OR FORM. THANK YOU FOR YOUR COOPERATION. -->
