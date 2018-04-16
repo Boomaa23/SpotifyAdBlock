@@ -58,5 +58,8 @@ echo Blocked IPs affixed to hosts
 
 xcopy /s /h /x /o /e /k "%UserProfile%\Desktop\hosts" "C:\Windows\System32\drivers\etc\" 
 echo Old hosts file replaced by new one
+
+del %UserProfile%\Desktop\hosts
+echo Hosts file copy removed
 echo Process Finished!
 PAUSE
