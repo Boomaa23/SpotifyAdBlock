@@ -8,6 +8,7 @@ A simple script *(made in batch)* to affix ad server addresses to hosts and remo
   4. Press Y every time a "do you want to overwrite this file?" message comes up (this is planned)
   5. Wait until the file is done writing
   6. Enjoy ad-free spotify!
+  
 (Optionally you can download adscript.bat and edit the script, but you'll need to run it in administrator mode)
 
 *Ad web server addresses provided by u/xXRasputintoXx on Reddit*
