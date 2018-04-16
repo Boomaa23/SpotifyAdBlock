@@ -3,7 +3,7 @@ echo WARNING: THIS WILL ADD TEXT TO YOUR HOSTS FILE
 echo DO NOT RUN THIS MORE THAN ONCE, IT WILL MESS UP YOUR HOSTS FILE
 echo If you have issues running this program, try to launch it in administrator mode
 echo Enter Y at every stage where it asks to overwrite files, this is planned
-echo Content blocking sources provided by u/xXRasputintoXx on Reddit
+echo Ad server addresses provided by u/xXRasputintoXx on Reddit
 PAUSE
 
 attrib -r C:\Windows\System32\drivers\etc\hosts.* /s /d
@@ -60,4 +60,3 @@ xcopy /s /h /x /o /e /k "%UserProfile%\Desktop\hosts" "C:\Windows\System32\drive
 echo Old hosts file replaced by new one
 echo Process Finished!
 PAUSE
-
