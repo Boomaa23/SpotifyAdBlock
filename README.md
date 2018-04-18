@@ -12,4 +12,6 @@ A simple script *(made in batch)* to affix ad server addresses to hosts and remo
 (Optionally you can download adscript.bat and edit the script, but you'll need to run it in administrator mode)
 
 *Ad web server addresses provided by u/xXRasputintoXx on Reddit*
+
+Go to this link if you want a "download page" - https://boomaa23.github.io/SpotifyAdBlock/
 <!-- DISCLAIMER(S): I AM NOT LIABLE FOR ANY DAMAGE CAUSED BY THE INDUCTION OF MY SCRIPT TO YOUR COMPUTING DEVICE. DO NOT RUN THIS MORE THAN ONCE, THAT CAN BECOME DANGEROUS. IF YOU DO NOT FOLLOW THE INSTRUCTIONS OR GUIDANCE, THEN I AM NOT RESPONSIBLE FOR ANY UNINTENDED CONSEQUENCES IN ANY WAY, SHAPE, OR FORM. THANK YOU FOR YOUR COOPERATION. -->
