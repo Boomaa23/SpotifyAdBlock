@@ -12,7 +12,7 @@ echo Removed read-only permission
 xcopy /s /h /x /o /e /k "C:\Windows\System32\drivers\etc\hosts.*" "%UserProfile%\Desktop"
 echo Hosts file copied to desktop
 
-cd C:\Users\Nikhil\Desktop
+cd %UserProfile%\Desktop
 (
 echo.
 echo 127.0.0.1 adclick.g.doublecklick.net
